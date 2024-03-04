@@ -2,7 +2,10 @@ sword and spear
 wall of shields
 standing strong
 on this their chosen battle field
+<<<<<<< HEAD
 
 Form the lines
 Shield by shield
 aa
+=======
+>>>>>>> 19349483500d5353f8c004a6cef241ae8a666376
